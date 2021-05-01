@@ -1,5 +1,5 @@
 # Origins-Underground
-A Datapack adding 3 new subterranean mod based origins!
+A Datapack adding 3 new subterranean mob based origins!
 
 
 DARKIC:
